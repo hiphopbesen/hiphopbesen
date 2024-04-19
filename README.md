@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiphopbesen
 - 👀 I’m interested in Web development, frontend and backend. everything i can put in a browser sounds fun
-- 🌱 I’m currently learning NEXTJS
+- 🌱 I’m currently using NEXTJS
 
 
 <!---
